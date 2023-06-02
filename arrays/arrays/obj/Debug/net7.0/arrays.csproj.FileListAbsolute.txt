@@ -1,0 +1,15 @@
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\bin\Debug\net7.0\arrays.exe
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\bin\Debug\net7.0\arrays.deps.json
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\bin\Debug\net7.0\arrays.runtimeconfig.json
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\bin\Debug\net7.0\arrays.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\bin\Debug\net7.0\arrays.pdb
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\arrays.csproj.AssemblyReference.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\arrays.AssemblyInfoInputs.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\arrays.AssemblyInfo.cs
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\arrays.csproj.CoreCompileInputs.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\arrays.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\refint\arrays.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\arrays.pdb
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\arrays.genruntimeconfig.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\arrays\arrays\obj\Debug\net7.0\ref\arrays.dll

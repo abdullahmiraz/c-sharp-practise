@@ -1,0 +1,15 @@
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\bin\Debug\net7.0\accessModifiers.exe
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\bin\Debug\net7.0\accessModifiers.deps.json
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\bin\Debug\net7.0\accessModifiers.runtimeconfig.json
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\bin\Debug\net7.0\accessModifiers.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\bin\Debug\net7.0\accessModifiers.pdb
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\accessModifiers.csproj.AssemblyReference.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\accessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\accessModifiers.AssemblyInfoInputs.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\accessModifiers.AssemblyInfo.cs
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\accessModifiers.csproj.CoreCompileInputs.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\accessModifiers.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\refint\accessModifiers.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\accessModifiers.pdb
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\accessModifiers.genruntimeconfig.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\accessModifiers\accessModifiers\obj\Debug\net7.0\ref\accessModifiers.dll

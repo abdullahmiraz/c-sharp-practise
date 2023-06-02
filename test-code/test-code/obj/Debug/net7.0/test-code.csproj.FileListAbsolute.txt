@@ -1,0 +1,15 @@
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\bin\Debug\net7.0\test-code.exe
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\bin\Debug\net7.0\test-code.deps.json
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\bin\Debug\net7.0\test-code.runtimeconfig.json
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\bin\Debug\net7.0\test-code.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\bin\Debug\net7.0\test-code.pdb
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\test-code.csproj.AssemblyReference.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\test-code.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\test-code.AssemblyInfoInputs.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\test-code.AssemblyInfo.cs
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\test-code.csproj.CoreCompileInputs.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\test-code.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\refint\test-code.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\test-code.pdb
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\test-code.genruntimeconfig.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\test-code\test-code\obj\Debug\net7.0\ref\test-code.dll

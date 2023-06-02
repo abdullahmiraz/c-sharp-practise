@@ -1,0 +1,15 @@
+C:\Users\Neon\source\repos\miraz\miraz\bin\Debug\net6.0\miraz.exe
+C:\Users\Neon\source\repos\miraz\miraz\bin\Debug\net6.0\miraz.deps.json
+C:\Users\Neon\source\repos\miraz\miraz\bin\Debug\net6.0\miraz.runtimeconfig.json
+C:\Users\Neon\source\repos\miraz\miraz\bin\Debug\net6.0\miraz.dll
+C:\Users\Neon\source\repos\miraz\miraz\bin\Debug\net6.0\miraz.pdb
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\miraz.csproj.AssemblyReference.cache
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\miraz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\miraz.AssemblyInfoInputs.cache
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\miraz.AssemblyInfo.cs
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\miraz.csproj.CoreCompileInputs.cache
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\miraz.dll
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\refint\miraz.dll
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\miraz.pdb
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\miraz.genruntimeconfig.cache
+C:\Users\Neon\source\repos\miraz\miraz\obj\Debug\net6.0\ref\miraz.dll

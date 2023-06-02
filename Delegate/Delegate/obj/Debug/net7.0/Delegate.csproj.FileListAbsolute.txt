@@ -1,0 +1,15 @@
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\bin\Debug\net7.0\Delegate.exe
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\bin\Debug\net7.0\Delegate.deps.json
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\bin\Debug\net7.0\Delegate.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\bin\Debug\net7.0\Delegate.pdb
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\Delegate.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\Delegate.pdb
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+E:\My Files\University Related - Academic\# 8th Semester - Summer 2023\3.1 CSC 440 - C# Lab\Personal Practise\repos\Delegate\Delegate\obj\Debug\net7.0\ref\Delegate.dll
